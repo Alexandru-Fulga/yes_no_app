@@ -1,3 +1,3 @@
 # yes_no_app
 
-Aplicación de flutter estilo whatsapp para practica de consumo de APIs
+Aplicación de flutter al estilo de whatsapp para practica de consumo de APIs
